@@ -1,0 +1,660 @@
+Uri: https://ftc.vin/
+File Name: C:\Users\User\Desktop\999\ftc.vin\index.htm
+Content Type: text/html
+
+Uri: https://ftc.vin/img/11.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\11.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/22.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\22.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/33.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\33.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/1170x103_1.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\1170x103_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/positive-stock-performance1.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\positive-stock-performance1.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/favicon-ftc.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\favicon-ftc.png
+Content Type: image/png
+
+Uri: https://ftc.vin/css/assets/bootstrap.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\assets\bootstrap.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/assets/flaticon.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\assets\flaticon.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/skins/brk-blue.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\skins\brk-blue.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/skins/brk-base-color.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\skins\brk-base-color.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/assets/offsets.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\assets\offsets.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/assets/styles.min.css?v=10.5
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\assets\styles.min.css
+Content Type: text/css
+
+Uri: https://ftc.vin/vendor/revslider/css/settings.css?v=3
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revslider\css\settings.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/components/services.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\components\services.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/components/dividers.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\components\dividers.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/components/blog.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\components\blog.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/components/titles.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\components\titles.css
+Content Type: text/css
+
+Uri: https://ftc.vin/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\pe-icon-7-stroke\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: https://ftc.vin/fonts/font-awesome/css/font-awesome.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/settings.css?v=1
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\settings.css
+Content Type: text/css
+
+Uri: https://ftc.vin/?page=rules
+File Name: C:\Users\User\Desktop\999\ftc.vin\index-1.htm
+Content Type: text/html
+
+Uri: https://ftc.vin/?page=reviews
+File Name: C:\Users\User\Desktop\999\ftc.vin\index-2.htm
+Content Type: text/html
+
+Uri: https://ftc.vin/lk/login/
+File Name: C:\Users\User\Desktop\999\ftc.vin\lk\login\index.htm
+Content Type: text/html
+
+Uri: https://ftc.vin/img/doc/1_big.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\doc\1_big.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/img/doc/2_big.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\doc\2_big.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/css/components/form-controls.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\components\form-controls.css
+Content Type: text/css
+
+Uri: https://ftc.vin/ftc-white2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\ftc-white2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/ftc2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\ftc2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/ftc.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\ftc.png
+Content Type: image/png
+
+Uri: https://ftc.vin/js/components/buttons.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\components\buttons.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/jquery.themepunch.tools.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/jquery.themepunch.revolution.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.actions.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.carousel.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.kenburn.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.migration.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.parallax.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/extensions/revolution.extension.video.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/assets/dummy.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\dummy.png
+Content Type: image/png
+
+Uri: https://ftc.vin/vendor/odometer/js/odometer.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\odometer\js\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/components/counter.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\components\counter.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/img/icon/4.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\icon\4.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/icon/21.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\icon\21.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/icon/7.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\icon\7.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/doc/1_small.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\doc\1_small.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/img/doc/2_small.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\doc\2_small.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/1_x2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\1_x2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/2_x2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\2_x2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/3_x2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\3_x2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/4_x2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\4_x2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/logo/binance-logo.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\binance-logo.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/logo/Bitstamp-770x433.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\Bitstamp-770x433.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/logo/Exmo-w.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\Exmo-w.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/logo/bitmex3.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\bitmex3.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/forexClub2.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\forexClub2.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/alpari.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\alpari.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/f.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\f.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/1xbetl.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\1xbetl.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/logo/pinnacle-900x4001.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\pinnacle-900x4001.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/winline.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\winline.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/tradingview2.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\tradingview2.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/coinmarket.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\coinmarket.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/Alpari-logo.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\Alpari-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/assets/logo/ForexClub.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\logo\ForexClub.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/ftc-white.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\ftc-white.png
+Content Type: image/png
+
+Uri: https://ftc.vin/js/scripts.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/fancybox/js/jquery.fancybox.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\fancybox\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/animejs/js/anime.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\animejs\js\anime.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/assets/brk-hover3d.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\assets\brk-hover3d.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/components/image-caption-parallax.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\components\image-caption-parallax.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/revslider/js/jquery.themepunch.tools.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revslider\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/revslider/js/jquery.themepunch.revolution.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revslider\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/revslider/js/extensions/revolution.extension.layeranimation.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revslider\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/revslider/js/extensions/revolution.extension.navigation.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revslider\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/revslider/js/extensions/revolution.extension.slideanims.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revslider\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/formStyler/js/jquery.formstyler.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\formStyler\js\jquery.formstyler.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/js/components/form-controls.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\js\components\form-controls.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/css/fonts/Flaticon.eot
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/css/fonts/Flaticon.eot?
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/css/fonts/Flaticon.woff
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://ftc.vin/css/fonts/Flaticon.ttf
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\Flaticon.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ftc.vin/css/fonts/Flaticon.svg
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/img/default-bg-image-01.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\default-bg-image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/DualRing-1s-200px3.svg
+File Name: C:\Users\User\Desktop\999\ftc.vin\DualRing-1s-200px3.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/css/fonts/berserk/berserk.eot
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\berserk\berserk.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/css/fonts/berserk/berserk.eot?
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\berserk\berserk-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/css/fonts/berserk/berserk.woff
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\berserk\berserk.woff
+Content Type: application/font-woff
+
+Uri: https://ftc.vin/css/fonts/berserk/berserk.ttf
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\berserk\berserk.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ftc.vin/css/fonts/berserk/berserk.svg
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\fonts\berserk\berserk.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/img/curve.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\curve.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/app-inside-1.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\app-inside-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/img/app-case-2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\app-case-2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/app-inside-2.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\app-inside-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/img/app-inside-3.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\app-inside-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/img/770x433_1.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\770x433_1.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/img/wave-line.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\wave-line.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/wave-line-2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\wave-line-2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/1.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\1.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/2.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\2.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/3.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\3.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/4.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\4.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/5.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\5.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/6.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\6.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/7.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\7.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/8.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\8.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/9.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\9.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/10.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\10.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/11.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\11.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/12.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\12.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/13.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\13.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/14.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\14.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/bg-patterns/15.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\bg-patterns\15.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/dashed-divider.svg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\dashed-divider.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/assets/step-arrow.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\step-arrow.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/sprite.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\sprite.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/dashed-border-primary.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\dashed-border-primary.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/hatch_1.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\hatch_1.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/dotted-bg.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\dotted-bg.png
+Content Type: image/png
+
+Uri: https://ftc.vin/img/dotted-bg_wide.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\dotted-bg_wide.png
+Content Type: image/png
+
+Uri: https://ftc.vin/vendor/revicons/revicons.eot?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/vendor/revicons/revicons.woff?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://ftc.vin/vendor/revicons/revicons.ttf?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revicons\revicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ftc.vin/vendor/revicons/revicons.svg?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/img/loader.gif
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\loader.gif
+Content Type: image/gif
+
+Uri: https://ftc.vin/img/heading-bg.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\heading-bg.png
+Content Type: image/png
+
+Uri: https://ftc.vin/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot?d7yf1v
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot?
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.woff
+Content Type: application/font-woff
+
+Uri: https://ftc.vin/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ftc.vin/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg?d7yf1v
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://ftc.vin/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://ftc.vin/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ftc.vin/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ftc.vin/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\revicons\revicons.woff
+Content Type: application/font-woff
+
+Uri: https://ftc.vin/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\revicons\revicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ftc.vin/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\User\Desktop\999\ftc.vin\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://ftc.vin/assets/coloredbg.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/loader.gif
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://ftc.vin/img/649470068-2.jpg
+File Name: C:\Users\User\Desktop\999\ftc.vin\img\649470068-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ftc.vin/index.php
+File Name: C:\Users\User\Desktop\999\ftc.vin\index.html
+Content Type: text/html
+
+Uri: https://ftc.vin/assets/VK.com-logo.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\VK.com-logo.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/telegram-logo.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\telegram-logo.png
+Content Type: image/png
+
+Uri: https://ftc.vin/assets/YouTube_play1.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\assets\YouTube_play1.png
+Content Type: image/png
+
+Uri: https://ftc.vin/vendor/owl-carousel/owl-carousel/owl.carousel.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\owl-carousel\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://ftc.vin/vendor/owl-carousel/owl-carousel/owl.theme.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\owl-carousel\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: https://ftc.vin/vendor/owl-carousel/owl-carousel/owl.carousel.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\owl-carousel\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/css/skins/brk-blue.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\skins\brk-blue-1.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/skins/brk-base-color.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\skins\brk-base-color-1.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/assets/offsets.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\assets\offsets-1.css
+Content Type: text/css
+
+Uri: https://ftc.vin/css/assets/styles.min.css
+File Name: C:\Users\User\Desktop\999\ftc.vin\css\assets\styles.min-1.css
+Content Type: text/css
+
+Uri: https://ftc.vin/lk/registration/
+File Name: C:\Users\User\Desktop\999\ftc.vin\lk\registration\index.htm
+Content Type: text/html
+
+Uri: https://ftc.vin/lk/login/forgot-password.php
+File Name: C:\Users\User\Desktop\999\ftc.vin\lk\login\forgot-password.html
+Content Type: text/html
+
+Uri: https://ftc.vin/FutureTechnologiesCorporation-white.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\FutureTechnologiesCorporation-white.png
+Content Type: image/png
+
+Uri: https://ftc.vin/lk/login/js/scripts.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\lk\login\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://ftc.vin/vendor/owl-carousel/owl-carousel/grabbing.png
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\owl-carousel\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: https://ftc.vin/vendor/owl-carousel/owl-carousel/AjaxLoader.gif
+File Name: C:\Users\User\Desktop\999\ftc.vin\vendor\owl-carousel\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: https://ftc.vin/lk/registration/js/scripts.min.js
+File Name: C:\Users\User\Desktop\999\ftc.vin\lk\registration\js\scripts.min.js
+Content Type: application/javascript
+
